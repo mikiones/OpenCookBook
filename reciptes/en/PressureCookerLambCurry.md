@@ -29,4 +29,4 @@ spices
 
 
 
-[^Ginger-Garlick-paste]: Ginger-Garlick-paste.md
+[^Ginger-Garlick-paste]:[look](Ginger-Garlick-paste.md)
