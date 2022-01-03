@@ -8,7 +8,7 @@
 - [x] 300g Baking potatos [^goodforbakingpotatos]
 - [x] Spring Greens
 - [ ] 25g Redcurrent Jelly 
-- [ ] 1pc Chicken Stock Cube
+- [ ] 1pc Chicken stock cube
 - [ ] 1pc Garlic clove
 - [ ] butter
 - [ ] olive oil
@@ -17,14 +17,15 @@
 ## 1. Roast duck legs
 Preheat oven to 190<sup>o</sup>C / 170<sup>o</sup>C (fan).
 
-Add **duck legs** to baking try and season all over with a pinsh of **salt**
+place sheat of baking paper on bottom of try and cover it with olive oil
+
+Add **duck legs** to baking try and season all over with a pinch of **salt**
 
 Put the try in oven for initial 20-25 min, or unitl your potatos are fork tender
 
-
 ## 2. Pre-boil potatos
 
-Meanwhile, peel the **potatos**(chop large potatos in hlaf to all be about same size)
+Meanwhile, peel the **potatos**(chop large potatos in half to all be about same size)
 
 Add the **potatos** to **boiling water** with pinch of salt, bring to boil over high heat and cook for 10-25 min or until fork tender
 
@@ -36,11 +37,13 @@ Tip: For extra crspness, shake them around in a colander to fluff up the edges a
 
 ## 3. Roast the potatos
 
-Once the potatos are done, remove the **duck legs** from the oven
+Once the potatos are done, remove the **duck legs** from the oven, transfer them to plate
 
-Add **drain potatos** with generous pinch of **salt** and give everything a good mix up until coated in all of the duck fat ( add a bit of olive oil if thy looking dry) 
+Add **draind potatos** with generus pinch of **salt** to pot(one thy cooked in) and pour all liqid from roasting pan, mix gently untill all potatos are covered in duck grees, add bit of olive oil if potatos looks dry
 
-Return try to oven for 50 min further, or until the duck is cooked thrugth (no pink meet!) and potatos are gold and crispy
+put **greesed potatos** to rosting pan and move around to make enough space in middle for duck legs, more thy spaced apart-cripier thy going to be
+
+return **rosted duck legs** and pan and return all to oven for futher 50 min or untill duck is cooked thru (no pink meet) and potatos are gold and crispy
 
 ## 4. Make redcurrent Souce
 
@@ -74,5 +77,5 @@ Drizle over Duck your **rescurrent souce**
 Enjoy!
 
 
-[goodforbakingpotatos]: red potatos are quite nice 
+[goodforbakingpotatos]: British red potatos are quite nice 
     to use
