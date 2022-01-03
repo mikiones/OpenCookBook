@@ -22,11 +22,10 @@ spices
 - [ ] 1 tsp cumin seeds
 - [ ] 2-3 black cadmun
 - [ ] 1 cinamon stick
-- [ ] 2 cubes of Ginger-Garlick paste [^Ginger-Garlick-paste]
+- [ ] 2 cubes of [Ginger-Garlic paste](Ginger-Garlick-paste.md)
 
 
 
 
 
 
-[^Ginger-Garlick-paste]:[look](Ginger-Garlick-paste.md)
