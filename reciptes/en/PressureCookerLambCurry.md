@@ -22,7 +22,6 @@ spices
 - [ ] 1/2 tsp nutmag powder
 - [ ] 1 tsp black pepper
 - [ ] 1 tsp cumin seeds
-- [ ] 2-3 black cadmun
 - [ ] 1 cinamon stick
 - [ ] 1 tsp chily flakes
 
@@ -40,7 +39,7 @@ slice **red onions**, once all meat was brawn, transfer all to pressure cooker, 
 
 ## 2. Make carry blend
 
-heat up dry clean pan and roast **cloves**, **green and black cadmon** **start anasie** **bay leaves** **black pepper** **cummin seeds** and **cinamon stick** for few min until fraigment, dont allwo to burn!
+heat up dry clean pan and roast **cloves**, **green and black cadmon** **start anasie** **bay leaves** **black pepper** **cummin seeds** and **cinamon stick** for few min until fraigment, dont allow to burn!
 
 use blender to belnd roasted spaices into your **Curry space blend** add **nutmag powder**
 
@@ -61,6 +60,8 @@ cook on high for 20 min, can fast relese after
 blend **chesenuts** with **crispy onion** (add spash of **coconut milk**) into paste 
 
 cut your **coriander finely**
+
+after initial 20 min is done add **chesenut paste** and **coriander** to curry and cook under presure for furthere 10 min 
 
 
 
